@@ -4,7 +4,7 @@
 
 **Find errors in the code (syntax, logic or otherwise) and suggest fixes**
 
-The first script had poor documentation/logic and had some typos. 
+The first script had poor documentation/logic and had some typos - technically wasn't a script because I originally uploaded an IPYNB file. 
 Most importantly, the script did not include actual Python functions. 
 I updated the script to actually include functions. 
 I also limited the documentation to what the code does and removed anything that would otherwise be explained in the README. 
